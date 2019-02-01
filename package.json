@@ -6,7 +6,7 @@
   "description": "Provides basic code intelligence for C++ using the Sourcegraph search API",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sourcegraph/sourcegraph-cpp"
+    "url": "https://github.com/xinsfang/sourcegraph-cpp"
   },
   "categories": [
     "Programming languages"
